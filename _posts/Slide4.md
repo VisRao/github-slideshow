@@ -1,0 +1,6 @@
+---
+layout: presentation
+title:"On-Site Metrics"
+---
+
+time on site, pages per visit, % new visitors, bounce rate, goals revenue, exit pages
